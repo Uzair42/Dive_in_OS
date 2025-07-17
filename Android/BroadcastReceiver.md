@@ -282,4 +282,4 @@ sendBroadcast(requestIntent, "com.example.appA.permission.REQUEST_DATA"); // Req
 <li>"Professional Android" by Reto Meier and Ian Lake.</li>
 </ul>
 
-                            </div>
+                          
